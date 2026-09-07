@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(sleep *)",
+      "Bash(mkdir -p *)",
+      "WebFetch(domain:zalando.dk)",
+      "WebFetch(domain:zalando.se)",
+      "WebFetch(domain:uspoloassn.it)",
+      "Artifact"
+    ]
+  }
+}
