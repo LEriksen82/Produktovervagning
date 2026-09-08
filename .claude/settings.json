@@ -4,8 +4,11 @@
       "Bash(sleep *)",
       "Bash(mkdir -p *)",
       "WebFetch(domain:zalando.dk)",
+      "WebFetch(domain:www.zalando.dk)",
       "WebFetch(domain:zalando.se)",
+      "WebFetch(domain:www.zalando.se)",
       "WebFetch(domain:uspoloassn.it)",
+      "WebFetch(domain:www.uspoloassn.it)",
       "Artifact"
     ]
   }
